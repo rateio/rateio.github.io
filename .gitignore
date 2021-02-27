@@ -103,5 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-#
+#get rid of ds_store
 .DS_Store
