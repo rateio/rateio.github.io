@@ -761,6 +761,12 @@ section {
 .compose-music {
   max-width: 35rem;
 }
+@media (max-width: 576px) {
+  .compose-music {
+    max-width: 15rem;
+  }
+}
+
 @media screen and (max-width: 992px) {
   .hero-section .iphone-wrap .phone-2,
   .hero-section .iphone-wrap .phone-1 {
