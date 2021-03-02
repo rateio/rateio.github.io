@@ -1,5 +1,5 @@
 # rateio.github.io
-The repository for rateio, a song rating website
+The repository for rateio, a song rating website! Check us out at rateio.github.io
 
 
 # Sources!
